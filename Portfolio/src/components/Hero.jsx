@@ -9,7 +9,7 @@ function Hero() {
 
             <h2>Hi, I'm Dheeraj Malik</h2>
             <p>Full Stack Developer | Passionate Fresher</p>
-            <a href="#contact" className="btn">Hire Me</a>
+            <a href="/Dheeraj_Malik_Resume.pdf" download className="btn">Download Resume</a>
         </section>
     )
 }

@@ -16,7 +16,6 @@ function App() {
       <About />
       <Skills />
       <Projects />
-      <Resume />
       <Contact />
       <Footer />
     </>
